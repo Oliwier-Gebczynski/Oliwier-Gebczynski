@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Oliwier-Gebczynski
-- 👀 I’m interested in gym and code
+- 👀 I’m interested in gym and coding
 - 🌱 I’m currently learning JS and Python
