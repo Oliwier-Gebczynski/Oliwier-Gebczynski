@@ -1,4 +1,4 @@
-# Hi, I’m @Oliwier-Gebczynski
+# Hi, I’m Oliwier Gebczynski
 _______________________________________________________________________________________
 - 🌱 I’m currently learning JS and Python
 - 👉 Also I'm on stackblitz: https://stackblitz.com/@Oliwier-Gebczynski
